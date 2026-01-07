@@ -2,4 +2,5 @@ pandas
 numpy
 matplotlib
 seaborn
+openpyx1
 streamlit
